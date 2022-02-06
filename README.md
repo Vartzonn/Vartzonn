@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vartzonn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS and JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
 - 📫 How to reach me antoinebrunelle0609@gmail.com
 
 <!---
