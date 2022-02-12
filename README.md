@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vartzonn
+- 👋 Hi, I’m Antoine Brunelle
 - 🌱 I’m currently learning React
 - 📫 How to reach me antoinebrunelle0609@gmail.com
 
