@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brunelle Antoine</h1>
 <h3 align="center">A junior frontend developer from France</h3>
 
-- 🌱 I’m currently learning **ReactJS** - 👨‍💻 All of my projects are available at
-[https://antoine-brunelle.fr](https://antoine-brunelle.fr) - 📫 How to reach me
-**antoinebrunelle0609@gmail.com**
+- 🌱 I’m currently learning **ReactJS** 
+- 👨‍💻 All of my projects are available at [https://antoine-brunelle.fr](https://antoine-brunelle.fr) 
+- 📫 How to reach me **antoinebrunelle0609@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
